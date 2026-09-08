@@ -1,0 +1,54 @@
+name: Update GitHub Ecosystem Orbit
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  visualize:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Profile Orbit
+        uses: NiconiKimg/github-profile-orbit@v1
+        with:
+          username: NiconiKimg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          template: space
+          theme: auto
+          role: 'Systems Engineering Student'
+          output_path: dist/github-profile-orbit.svg
+          output_dark_path: dist/github-profile-orbit-dark.svg
+          output_light_path: dist/github-profile-orbit-light.svg
+          external_repositories: |
+            upskill-team/Back-End-DSW
+            upskill-team/Front-End-DSW
+            SIGMA-LA/Front-End-SIGMA-LA
+            SIGMA-LA/Back-End-SIGMA-LA
+            Frasquito3/PedemonteDigitalTwin_v2
+            LucaTvl/Hyperparameters-Optimization
+          exclude_repositories: |
+            *-test
+            demo-*
+            temp-*
+            *-sandbox
+            dotfiles
+          include_forks: false
+          include_archived: false
+          max_repositories: 25
+          show_header: true
+          show_footer: true
+          show_stats: true
+          show_animations: true
+          show_orbits: true
+          show_constellations: true
+          auto_commit: true
+          commit_message: 'chore(orbit): update celestial visualization [skip ci]'
