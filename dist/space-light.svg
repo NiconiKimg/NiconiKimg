@@ -349,7 +349,7 @@
         <!-- Commits Pill -->
         <rect x="88" y="0" width="80" height="36" rx="8" class="metric-pill-bg" />
         <text x="128" y="16" text-anchor="middle" class="metric-label">COMMITS</text>
-        <text x="128" y="30" text-anchor="middle" class="metric-val">⚡ 275</text>
+        <text x="128" y="30" text-anchor="middle" class="metric-val">⚡ 277</text>
 
         <!-- Forks Pill -->
         <rect x="176" y="0" width="76" height="36" rx="8" class="metric-pill-bg" />
@@ -359,7 +359,7 @@
         <!-- Languages Pill -->
         <rect x="260" y="0" width="80" height="36" rx="8" class="metric-pill-bg" />
         <text x="300" y="16" text-anchor="middle" class="metric-label">LANGUAGES</text>
-        <text x="300" y="30" text-anchor="middle" class="metric-val">❖ 9</text>
+        <text x="300" y="30" text-anchor="middle" class="metric-val">❖ 7</text>
       </g>
       
     </g>
@@ -968,34 +968,9 @@
       
     <g class="footer-group">
       <!-- Spectrum Bar -->
-      <rect x="32.0" y="502" width="347.8" height="6" rx="2" fill="#3178C6" /><rect x="381.3" y="502" width="211.5" height="6" rx="2" fill="#7355dd" /><rect x="594.3" y="502" width="93.6" height="6" rx="2" fill="#F1E05A" /><rect x="689.4" y="502" width="72.7" height="6" rx="2" fill="#3572A5" /><rect x="763.6" y="502" width="52.7" height="6" rx="2" fill="#e34c26" />
+      
 
       <!-- Legend Items -->
-      
-        <g transform="translate(32.0, 520)">
-          <circle cx="4" cy="4" r="4" fill="#3178C6" />
-          <text x="14" y="8" class="legend-text">TypeScript <tspan class="legend-pct">41.6%</tspan></text>
-        </g>
-      
-        <g transform="translate(157.0, 520)">
-          <circle cx="4" cy="4" r="4" fill="#7355dd" />
-          <text x="14" y="8" class="legend-text">C# <tspan class="legend-pct">25.3%</tspan></text>
-        </g>
-      
-        <g transform="translate(247.0, 520)">
-          <circle cx="4" cy="4" r="4" fill="#F1E05A" />
-          <text x="14" y="8" class="legend-text">JavaScript <tspan class="legend-pct">11.2%</tspan></text>
-        </g>
-      
-        <g transform="translate(372.0, 520)">
-          <circle cx="4" cy="4" r="4" fill="#3572A5" />
-          <text x="14" y="8" class="legend-text">Python <tspan class="legend-pct">8.7%</tspan></text>
-        </g>
-      
-        <g transform="translate(465.0, 520)">
-          <circle cx="4" cy="4" r="4" fill="#e34c26" />
-          <text x="14" y="8" class="legend-text">HTML <tspan class="legend-pct">6.3%</tspan></text>
-        </g>
       
 
       <!-- Octo-Orbit Brand / Telemetry Timestamp on the right -->
