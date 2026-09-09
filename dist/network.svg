@@ -371,7 +371,7 @@
         <!-- Commits Pill -->
         <rect x="88" y="0" width="80" height="36" rx="8" class="metric-pill-bg" />
         <text x="128" y="16" text-anchor="middle" class="metric-label">COMMITS</text>
-        <text x="128" y="30" text-anchor="middle" class="metric-val">⚡ 274</text>
+        <text x="128" y="30" text-anchor="middle" class="metric-val">⚡ 275</text>
 
         <!-- Forks Pill -->
         <rect x="176" y="0" width="76" height="36" rx="8" class="metric-pill-bg" />
@@ -410,8 +410,8 @@
         />
       
         <line
-          x1="164"
-          y1="255"
+          x1="199"
+          y1="353"
           x2="450"
           y2="135"
           stroke="var(--color-constellation-line)"
@@ -443,8 +443,8 @@
         />
       
         <line
-          x1="164"
-          y1="255"
+          x1="199"
+          y1="353"
           x2="264"
           y2="169"
           stroke="var(--color-constellation-line)"
@@ -465,8 +465,8 @@
         />
       
         <line
-          x1="164"
-          y1="255"
+          x1="199"
+          y1="353"
           x2="736"
           y2="255"
           stroke="var(--color-constellation-line)"
@@ -487,8 +487,8 @@
         />
       
         <line
-          x1="164"
-          y1="255"
+          x1="199"
+          y1="353"
           x2="549"
           y2="416"
           stroke="var(--color-constellation-line)"
@@ -509,8 +509,8 @@
         />
       
         <line
-          x1="164"
-          y1="255"
+          x1="199"
+          y1="353"
           x2="701"
           y2="353"
           stroke="var(--color-constellation-line)"
@@ -535,17 +535,6 @@
           y1="169"
           x2="549"
           y2="416"
-          stroke="var(--color-constellation-line)"
-          stroke-width="1.4"
-          stroke-dasharray="3, 4"
-          opacity="0.22"
-        />
-      
-        <line
-          x1="636"
-          y1="169"
-          x2="199"
-          y2="353"
           stroke="var(--color-constellation-line)"
           stroke-width="1.4"
           stroke-dasharray="3, 4"
@@ -564,10 +553,21 @@
         />
       
         <line
+          x1="636"
+          y1="169"
+          x2="199"
+          y2="353"
+          stroke="var(--color-constellation-line)"
+          stroke-width="1.4"
+          stroke-dasharray="3, 4"
+          opacity="0.22"
+        />
+      
+        <line
           x1="549"
           y1="416"
-          x2="199"
-          y2="353"
+          x2="164"
+          y2="255"
           stroke="var(--color-constellation-line)"
           stroke-width="1.4"
           stroke-dasharray="3, 4"
@@ -575,10 +575,10 @@
         />
       
         <line
-          x1="164"
-          y1="255"
-          x2="199"
-          y2="353"
+          x1="199"
+          y1="353"
+          x2="164"
+          y2="255"
           stroke="var(--color-constellation-line)"
           stroke-width="1.4"
           stroke-dasharray="3, 4"
@@ -586,8 +586,8 @@
         />
       
         <line
-          x1="395.4564422984512"
-          y1="110"
+          x1="358.807895078576"
+          y1="105"
           x2="450"
           y2="135"
           stroke="#3178C6"
@@ -597,8 +597,8 @@
         />
       
         <line
-          x1="395.4564422984512"
-          y1="110"
+          x1="358.807895078576"
+          y1="105"
           x2="736"
           y2="255"
           stroke="#F1E05A"
@@ -608,8 +608,8 @@
         />
       
         <line
-          x1="504.5425522409811"
-          y1="110"
+          x1="796.4405787709878"
+          y1="151.85775179366772"
           x2="450"
           y2="135"
           stroke="#3178C6"
@@ -619,8 +619,8 @@
         />
       
         <line
-          x1="504.5425522409811"
-          y1="110"
+          x1="796.4405787709878"
+          y1="151.85775179366772"
           x2="264"
           y2="169"
           stroke="#64748B"
@@ -630,8 +630,8 @@
         />
       
         <line
-          x1="504.5425522409811"
-          y1="110"
+          x1="796.4405787709878"
+          y1="151.85775179366772"
           x2="736"
           y2="255"
           stroke="#F1E05A"
@@ -641,10 +641,10 @@
         />
       
         <line
-          x1="504.5425522409811"
-          y1="110"
-          x2="164"
-          y2="255"
+          x1="796.4405787709878"
+          y1="151.85775179366772"
+          x2="199"
+          y2="353"
           stroke="#563D7C"
           stroke-width="0.85"
           stroke-dasharray="2, 3"
@@ -652,8 +652,8 @@
         />
       
         <line
-          x1="504.5425522409811"
-          y1="110"
+          x1="796.4405787709878"
+          y1="151.85775179366772"
           x2="549"
           y2="416"
           stroke="#E34C26"
@@ -663,8 +663,8 @@
         />
       
         <line
-          x1="402.1"
-          y1="380.9"
+          x1="426.9214038736381"
+          y1="366.1087917401807"
           x2="351"
           y2="416"
           stroke="#b07219"
@@ -674,8 +674,8 @@
         />
       
         <line
-          x1="650.6238012739815"
-          y1="316.76486066459455"
+          x1="654.7948164010623"
+          y1="292.2543163423108"
           x2="701"
           y2="353"
           stroke="#3572A5"
@@ -685,8 +685,8 @@
         />
       
         <line
-          x1="654.9670934582458"
-          y1="384.63718585215304"
+          x1="640.083408772521"
+          y1="421.7221576866439"
           x2="701"
           y2="353"
           stroke="#3572A5"
@@ -696,8 +696,8 @@
         />
       
         <line
-          x1="654.9670934582458"
-          y1="384.63718585215304"
+          x1="640.083408772521"
+          y1="421.7221576866439"
           x2="736"
           y2="255"
           stroke="#F1E05A"
@@ -707,10 +707,10 @@
         />
       
         <line
-          x1="654.9670934582458"
-          y1="384.63718585215304"
-          x2="164"
-          y2="255"
+          x1="640.083408772521"
+          y1="421.7221576866439"
+          x2="199"
+          y2="353"
           stroke="#563D7C"
           stroke-width="0.85"
           stroke-dasharray="2, 3"
@@ -718,8 +718,8 @@
         />
       
         <line
-          x1="654.9670934582458"
-          y1="384.63718585215304"
+          x1="640.083408772521"
+          y1="421.7221576866439"
           x2="549"
           y2="416"
           stroke="#E34C26"
@@ -729,8 +729,8 @@
         />
       
         <line
-          x1="548.4822292048887"
-          y1="187.9719096334175"
+          x1="701.2992812347243"
+          y1="105"
           x2="450"
           y2="135"
           stroke="#3178c6"
@@ -740,8 +740,8 @@
         />
       
         <line
-          x1="548.4822292048887"
-          y1="187.9719096334175"
+          x1="701.2992812347243"
+          y1="105"
           x2="736"
           y2="255"
           stroke="#f1e05a"
@@ -751,10 +751,10 @@
         />
       
         <line
-          x1="548.4822292048887"
-          y1="187.9719096334175"
-          x2="164"
-          y2="255"
+          x1="701.2992812347243"
+          y1="105"
+          x2="199"
+          y2="353"
           stroke="#663399"
           stroke-width="0.85"
           stroke-dasharray="2, 3"
@@ -762,8 +762,8 @@
         />
       
         <line
-          x1="548.4822292048887"
-          y1="187.9719096334175"
+          x1="701.2992812347243"
+          y1="105"
           x2="549"
           y2="416"
           stroke="#e34c26"
@@ -773,8 +773,8 @@
         />
       
         <line
-          x1="616.5148652407487"
-          y1="354.02430220723585"
+          x1="564.8962988118576"
+          y1="336.89903720040087"
           x2="701"
           y2="353"
           stroke="#3572A5"
@@ -784,8 +784,8 @@
         />
       
         <line
-          x1="510.6412982029584"
-          y1="214.43865121855345"
+          x1="369.4712602353086"
+          y1="274.1687729007189"
           x2="450"
           y2="135"
           stroke="#3178c6"
@@ -795,8 +795,8 @@
         />
       
         <line
-          x1="510.6412982029584"
-          y1="214.43865121855345"
+          x1="369.4712602353086"
+          y1="274.1687729007189"
           x2="736"
           y2="255"
           stroke="#f1e05a"
@@ -806,8 +806,8 @@
         />
       
         <line
-          x1="510.6412982029584"
-          y1="214.43865121855345"
+          x1="369.4712602353086"
+          y1="274.1687729007189"
           x2="549"
           y2="416"
           stroke="#e34c26"
@@ -817,10 +817,10 @@
         />
       
         <line
-          x1="510.6412982029584"
-          y1="214.43865121855345"
-          x2="164"
-          y2="255"
+          x1="369.4712602353086"
+          y1="274.1687729007189"
+          x2="199"
+          y2="353"
           stroke="#663399"
           stroke-width="0.85"
           stroke-dasharray="2, 3"
@@ -828,8 +828,8 @@
         />
       
         <line
-          x1="506.7953508109288"
-          y1="161.9415967588552"
+          x1="545.7242943626668"
+          y1="127.72954824171804"
           x2="450"
           y2="135"
           stroke="#3178C6"
@@ -839,8 +839,8 @@
         />
       
         <line
-          x1="506.7953508109288"
-          y1="161.9415967588552"
+          x1="545.7242943626668"
+          y1="127.72954824171804"
           x2="736"
           y2="255"
           stroke="#F1E05A"
@@ -850,10 +850,10 @@
         />
       
         <line
-          x1="506.7953508109288"
-          y1="161.9415967588552"
-          x2="164"
-          y2="255"
+          x1="545.7242943626668"
+          y1="127.72954824171804"
+          x2="199"
+          y2="353"
           stroke="#563D7C"
           stroke-width="0.85"
           stroke-dasharray="2, 3"
@@ -861,8 +861,8 @@
         />
       
         <line
-          x1="465.7764435683762"
-          y1="193.89981822914066"
+          x1="470.88655807056494"
+          y1="214.7395569035382"
           x2="450"
           y2="135"
           stroke="#3178C6"
@@ -872,8 +872,8 @@
         />
       
         <line
-          x1="465.7764435683762"
-          y1="193.89981822914066"
+          x1="470.88655807056494"
+          y1="214.7395569035382"
           x2="736"
           y2="255"
           stroke="#F1E05A"
@@ -883,8 +883,8 @@
         />
       
         <line
-          x1="584.0568665942764"
-          y1="214.95319165320498"
+          x1="564.1653107891959"
+          y1="259.25961073780036"
           x2="636"
           y2="169"
           stroke="#7355dd"
@@ -894,8 +894,8 @@
         />
       
         <line
-          x1="584.0568665942764"
-          y1="214.95319165320498"
+          x1="564.1653107891959"
+          y1="259.25961073780036"
           x2="549"
           y2="416"
           stroke="#e34c26"
@@ -905,10 +905,10 @@
         />
       
         <line
-          x1="584.0568665942764"
-          y1="214.95319165320498"
-          x2="199"
-          y2="353"
+          x1="564.1653107891959"
+          y1="259.25961073780036"
+          x2="164"
+          y2="255"
           stroke="#e38c00"
           stroke-width="0.85"
           stroke-dasharray="2, 3"
@@ -916,10 +916,10 @@
         />
       
         <line
-          x1="584.0568665942764"
-          y1="214.95319165320498"
-          x2="164"
-          y2="255"
+          x1="564.1653107891959"
+          y1="259.25961073780036"
+          x2="199"
+          y2="353"
           stroke="#663399"
           stroke-width="0.85"
           stroke-dasharray="2, 3"
@@ -938,52 +938,52 @@
               TypeScript
             </text>
             <text x="0" y="11" text-anchor="middle" style="font-size: 8px; font-weight: 600; fill: var(--color-text-muted);">
-              41.9%
+              41.6%
             </text>
           </g>
         
           <g id="hub-csharp" class="network-hub" transform="translate(636, 169)">
             <!-- Hub Aura -->
-            <circle cx="0" cy="0" r="31.59037176493102" fill="#7355dd" opacity="0.2" filter="url(#stellar-glow)" class="pulsar-glow" />
+            <circle cx="0" cy="0" r="31.538883696778832" fill="#7355dd" opacity="0.2" filter="url(#stellar-glow)" class="pulsar-glow" />
             <!-- Hub Core -->
-            <circle cx="0" cy="0" r="25.59037176493102" fill="#7355dd" />
-            <circle cx="0" cy="0" r="22.59037176493102" fill="var(--color-card-bg)" />
+            <circle cx="0" cy="0" r="25.538883696778832" fill="#7355dd" />
+            <circle cx="0" cy="0" r="22.538883696778832" fill="var(--color-card-bg)" />
             <!-- Text -->
             <text x="0" y="-1" text-anchor="middle" dominant-baseline="central" style="font-size: 10px; font-weight: 700; fill: var(--color-text-primary);">
               C#
             </text>
             <text x="0" y="11" text-anchor="middle" style="font-size: 8px; font-weight: 600; fill: var(--color-text-muted);">
-              25.7%
+              25.3%
             </text>
           </g>
         
           <g id="hub-javascript" class="network-hub" transform="translate(736, 255)">
             <!-- Hub Aura -->
-            <circle cx="0" cy="0" r="29.21248145396511" fill="#F1E05A" opacity="0.2" filter="url(#stellar-glow)" class="pulsar-glow" />
+            <circle cx="0" cy="0" r="29.350632137977193" fill="#F1E05A" opacity="0.2" filter="url(#stellar-glow)" class="pulsar-glow" />
             <!-- Hub Core -->
-            <circle cx="0" cy="0" r="23.21248145396511" fill="#F1E05A" />
-            <circle cx="0" cy="0" r="20.21248145396511" fill="var(--color-card-bg)" />
+            <circle cx="0" cy="0" r="23.350632137977193" fill="#F1E05A" />
+            <circle cx="0" cy="0" r="20.350632137977193" fill="var(--color-card-bg)" />
             <!-- Text -->
             <text x="0" y="-1" text-anchor="middle" dominant-baseline="central" style="font-size: 8.5px; font-weight: 700; fill: var(--color-text-primary);">
               JavaScript
             </text>
             <text x="0" y="11" text-anchor="middle" style="font-size: 8px; font-weight: 600; fill: var(--color-text-muted);">
-              10.5%
+              11.2%
             </text>
           </g>
         
           <g id="hub-python" class="network-hub" transform="translate(701, 353)">
             <!-- Hub Aura -->
-            <circle cx="0" cy="0" r="28.856423213289744" fill="#3572A5" opacity="0.2" filter="url(#stellar-glow)" class="pulsar-glow" />
+            <circle cx="0" cy="0" r="28.834449112975683" fill="#3572A5" opacity="0.2" filter="url(#stellar-glow)" class="pulsar-glow" />
             <!-- Hub Core -->
-            <circle cx="0" cy="0" r="22.856423213289744" fill="#3572A5" />
-            <circle cx="0" cy="0" r="19.856423213289744" fill="var(--color-card-bg)" />
+            <circle cx="0" cy="0" r="22.834449112975683" fill="#3572A5" />
+            <circle cx="0" cy="0" r="19.834449112975683" fill="var(--color-card-bg)" />
             <!-- Text -->
             <text x="0" y="-1" text-anchor="middle" dominant-baseline="central" style="font-size: 10px; font-weight: 700; fill: var(--color-text-primary);">
               Python
             </text>
             <text x="0" y="11" text-anchor="middle" style="font-size: 8px; font-weight: 600; fill: var(--color-text-muted);">
-              8.8%
+              8.7%
             </text>
           </g>
         
@@ -1017,7 +1017,22 @@
             </text>
           </g>
         
-          <g id="hub-tsql" class="network-hub" transform="translate(199, 353)">
+          <g id="hub-css" class="network-hub" transform="translate(199, 353)">
+            <!-- Hub Aura -->
+            <circle cx="0" cy="0" r="26.69499262535269" fill="#663399" opacity="0.2" filter="url(#stellar-glow)" class="pulsar-glow" />
+            <!-- Hub Core -->
+            <circle cx="0" cy="0" r="20.69499262535269" fill="#663399" />
+            <circle cx="0" cy="0" r="17.69499262535269" fill="var(--color-card-bg)" />
+            <!-- Text -->
+            <text x="0" y="-1" text-anchor="middle" dominant-baseline="central" style="font-size: 10px; font-weight: 700; fill: var(--color-text-primary);">
+              CSS
+            </text>
+            <text x="0" y="11" text-anchor="middle" style="font-size: 8px; font-weight: 600; fill: var(--color-text-muted);">
+              1.7%
+            </text>
+          </g>
+        
+          <g id="hub-tsql" class="network-hub" transform="translate(164, 255)">
             <!-- Hub Aura -->
             <circle cx="0" cy="0" r="26.69499262535269" fill="#e38c00" opacity="0.2" filter="url(#stellar-glow)" class="pulsar-glow" />
             <!-- Hub Core -->
@@ -1029,21 +1044,6 @@
             </text>
             <text x="0" y="11" text-anchor="middle" style="font-size: 8px; font-weight: 600; fill: var(--color-text-muted);">
               1.7%
-            </text>
-          </g>
-        
-          <g id="hub-css" class="network-hub" transform="translate(164, 255)">
-            <!-- Hub Aura -->
-            <circle cx="0" cy="0" r="26.592168332809067" fill="#663399" opacity="0.2" filter="url(#stellar-glow)" class="pulsar-glow" />
-            <!-- Hub Core -->
-            <circle cx="0" cy="0" r="20.592168332809067" fill="#663399" />
-            <circle cx="0" cy="0" r="17.592168332809067" fill="var(--color-card-bg)" />
-            <!-- Text -->
-            <text x="0" y="-1" text-anchor="middle" dominant-baseline="central" style="font-size: 10px; font-weight: 700; fill: var(--color-text-primary);">
-              CSS
-            </text>
-            <text x="0" y="11" text-anchor="middle" style="font-size: 8px; font-weight: 600; fill: var(--color-text-muted);">
-              1.5%
             </text>
           </g>
         
@@ -1063,17 +1063,17 @@
           </g>
         
           <g id="repo-Back-End-DSW" class="network-repo">
-            <g transform="translate(395.4564422984512, 110)">
+            <g transform="translate(358.807895078576, 105)">
               <circle cx="0" cy="0" r="11" fill="#3178C6" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="9" fill="#3178C6" />
               <circle cx="0" cy="0" r="3.15" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(395.5, 93.0)">
+            <g transform="translate(342.8, 108.0)">
               <text
                 x="0"
                 y="0"
-                text-anchor="middle"
+                text-anchor="end"
                 class="repo-label"
               >
                 Back-End-DSW
@@ -1081,7 +1081,7 @@
               <text
                 x="0"
                 y="10"
-                text-anchor="middle"
+                text-anchor="end"
                 class="repo-sub"
               >
                 ★ 6
@@ -1090,17 +1090,17 @@
           </g>
         
           <g id="repo-Front-End-DSW" class="network-repo">
-            <g transform="translate(504.5425522409811, 110)">
+            <g transform="translate(796.4405787709878, 151.85775179366772)">
               <circle cx="0" cy="0" r="11" fill="#3178C6" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="9" fill="#3178C6" />
               <circle cx="0" cy="0" r="3.15" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(504.5, 93.0)">
+            <g transform="translate(812.4, 154.9)">
               <text
                 x="0"
                 y="0"
-                text-anchor="middle"
+                text-anchor="start"
                 class="repo-label"
               >
                 Front-End-DSW
@@ -1108,7 +1108,7 @@
               <text
                 x="0"
                 y="10"
-                text-anchor="middle"
+                text-anchor="start"
                 class="repo-sub"
               >
                 ★ 5
@@ -1117,17 +1117,17 @@
           </g>
         
           <g id="repo-AnyLogicWebToolkit" class="network-repo">
-            <g transform="translate(402.1, 380.9)">
+            <g transform="translate(426.9214038736381, 366.1087917401807)">
               <circle cx="0" cy="0" r="11.45" fill="#b07219" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="9.45" fill="#b07219" />
               <circle cx="0" cy="0" r="3.3074999999999997" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(402.1, 402.3)">
+            <g transform="translate(410.5, 369.1)">
               <text
                 x="0"
                 y="0"
-                text-anchor="middle"
+                text-anchor="end"
                 class="repo-label"
               >
                 AnyLogicWebToo…
@@ -1135,7 +1135,7 @@
               <text
                 x="0"
                 y="10"
-                text-anchor="middle"
+                text-anchor="end"
                 class="repo-sub"
               >
                 ★ 4
@@ -1144,13 +1144,13 @@
           </g>
         
           <g id="repo-Hyperparameters-Optimization" class="network-repo">
-            <g transform="translate(650.6238012739815, 316.76486066459455)">
+            <g transform="translate(654.7948164010623, 292.2543163423108)">
               <circle cx="0" cy="0" r="11" fill="#3572A5" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="9" fill="#3572A5" />
               <circle cx="0" cy="0" r="3.15" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(666.6, 319.8)">
+            <g transform="translate(670.8, 295.3)">
               <text
                 x="0"
                 y="0"
@@ -1171,13 +1171,13 @@
           </g>
         
           <g id="repo-PedemonteDigitalTwin_v2" class="network-repo">
-            <g transform="translate(654.9670934582458, 384.63718585215304)">
+            <g transform="translate(640.083408772521, 421.7221576866439)">
               <circle cx="0" cy="0" r="11" fill="#3572A5" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="9" fill="#3572A5" />
               <circle cx="0" cy="0" r="3.15" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(671.0, 387.6)">
+            <g transform="translate(656.1, 424.7)">
               <text
                 x="0"
                 y="0"
@@ -1198,13 +1198,13 @@
           </g>
         
           <g id="repo-github-profile-orbit" class="network-repo">
-            <g transform="translate(548.4822292048887, 187.9719096334175)">
+            <g transform="translate(701.2992812347243, 105)">
               <circle cx="0" cy="0" r="8.149999999999999" fill="#3178c6" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="6.1499999999999995" fill="#3178c6" />
               <circle cx="0" cy="0" r="2.1525" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(561.6, 191.0)">
+            <g transform="translate(714.4, 108.0)">
               <text
                 x="0"
                 y="0"
@@ -1225,17 +1225,17 @@
           </g>
         
           <g id="repo-NiconiKimg" class="network-repo">
-            <g transform="translate(367.5, 293.2)">
+            <g transform="translate(278.2212670388292, 317.4187698450036)">
               <circle cx="0" cy="0" r="8.149999999999999" fill="#64748B" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="6.1499999999999995" fill="#64748B" />
               <circle cx="0" cy="0" r="2.1525" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(354.4, 296.2)">
+            <g transform="translate(291.4, 320.4)">
               <text
                 x="0"
                 y="0"
-                text-anchor="end"
+                text-anchor="start"
                 class="repo-label"
               >
                 NiconiKimg
@@ -1243,7 +1243,7 @@
               <text
                 x="0"
                 y="10"
-                text-anchor="end"
+                text-anchor="start"
                 class="repo-sub"
               >
                 Markdown
@@ -1252,13 +1252,13 @@
           </g>
         
           <g id="repo-Genetic-Algorithms" class="network-repo">
-            <g transform="translate(616.5148652407487, 354.02430220723585)">
+            <g transform="translate(564.8962988118576, 336.89903720040087)">
               <circle cx="0" cy="0" r="8.149999999999999" fill="#3572A5" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="6.1499999999999995" fill="#3572A5" />
               <circle cx="0" cy="0" r="2.1525" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(629.7, 357.0)">
+            <g transform="translate(578.0, 339.9)">
               <text
                 x="0"
                 y="0"
@@ -1279,17 +1279,17 @@
           </g>
         
           <g id="repo-acopios-pm" class="network-repo">
-            <g transform="translate(510.6412982029584, 214.43865121855345)">
+            <g transform="translate(369.4712602353086, 274.1687729007189)">
               <circle cx="0" cy="0" r="7.1" fill="#3178c6" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="5.1" fill="#3178c6" />
               <circle cx="0" cy="0" r="1.7849999999999997" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(510.6, 201.3)">
+            <g transform="translate(357.4, 277.2)">
               <text
                 x="0"
                 y="0"
-                text-anchor="middle"
+                text-anchor="end"
                 class="repo-label"
               >
                 acopios-pm
@@ -1297,7 +1297,7 @@
               <text
                 x="0"
                 y="10"
-                text-anchor="middle"
+                text-anchor="end"
                 class="repo-sub"
               >
                 TypeScript
@@ -1306,13 +1306,13 @@
           </g>
         
           <g id="repo-Front-End-SIGMA-LA" class="network-repo">
-            <g transform="translate(506.7953508109288, 161.9415967588552)">
+            <g transform="translate(545.7242943626668, 127.72954824171804)">
               <circle cx="0" cy="0" r="11" fill="#3178C6" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="9" fill="#3178C6" />
               <circle cx="0" cy="0" r="3.15" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(506.8, 144.9)">
+            <g transform="translate(545.7, 149.7)">
               <text
                 x="0"
                 y="0"
@@ -1333,17 +1333,17 @@
           </g>
         
           <g id="repo-Back-End-SIGMA-LA" class="network-repo">
-            <g transform="translate(465.7764435683762, 193.89981822914066)">
+            <g transform="translate(470.88655807056494, 214.7395569035382)">
               <circle cx="0" cy="0" r="11" fill="#3178C6" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="9" fill="#3178C6" />
               <circle cx="0" cy="0" r="3.15" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(465.8, 176.9)">
+            <g transform="translate(486.9, 217.7)">
               <text
                 x="0"
                 y="0"
-                text-anchor="middle"
+                text-anchor="start"
                 class="repo-label"
               >
                 Back-End-SIGMA…
@@ -1351,7 +1351,7 @@
               <text
                 x="0"
                 y="10"
-                text-anchor="middle"
+                text-anchor="start"
                 class="repo-sub"
               >
                 TypeScript
@@ -1360,13 +1360,13 @@
           </g>
         
           <g id="repo-CookingSharp" class="network-repo">
-            <g transform="translate(584.0568665942764, 214.95319165320498)">
+            <g transform="translate(564.1653107891959, 259.25961073780036)">
               <circle cx="0" cy="0" r="6.5" fill="#7355dd" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="4.5" fill="#7355dd" />
               <circle cx="0" cy="0" r="1.575" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(595.6, 218.0)">
+            <g transform="translate(575.7, 262.3)">
               <text
                 x="0"
                 y="0"
@@ -1387,13 +1387,13 @@
           </g>
         
           <g id="repo-Entornos-Graficos-UTN" class="network-repo">
-            <g transform="translate(525.5844967924228, 255.15832018719595)">
+            <g transform="translate(482.4731296623116, 299.4509825371)">
               <circle cx="0" cy="0" r="6.275" fill="#64748B" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="4.275" fill="#64748B" />
               <circle cx="0" cy="0" r="1.49625" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(536.9, 258.2)">
+            <g transform="translate(493.7, 302.5)">
               <text
                 x="0"
                 y="0"
@@ -1416,28 +1416,28 @@
       
     <g class="footer-group">
       <!-- Spectrum Bar -->
-      <rect x="32.0" y="502" width="350.3" height="6" rx="2" fill="#3178C6" /><rect x="383.8" y="502" width="214.9" height="6" rx="2" fill="#7355dd" /><rect x="600.1" y="502" width="87.8" height="6" rx="2" fill="#F1E05A" /><rect x="689.4" y="502" width="73.6" height="6" rx="2" fill="#3572A5" /><rect x="764.5" y="502" width="52.7" height="6" rx="2" fill="#e34c26" />
+      <rect x="32.0" y="502" width="347.8" height="6" rx="2" fill="#3178C6" /><rect x="381.3" y="502" width="211.5" height="6" rx="2" fill="#7355dd" /><rect x="594.3" y="502" width="93.6" height="6" rx="2" fill="#F1E05A" /><rect x="689.4" y="502" width="72.7" height="6" rx="2" fill="#3572A5" /><rect x="763.6" y="502" width="52.7" height="6" rx="2" fill="#e34c26" />
 
       <!-- Legend Items -->
       
         <g transform="translate(32.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#3178C6" />
-          <text x="14" y="8" class="legend-text">TypeScript <tspan class="legend-pct">41.9%</tspan></text>
+          <text x="14" y="8" class="legend-text">TypeScript <tspan class="legend-pct">41.6%</tspan></text>
         </g>
       
         <g transform="translate(157.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#7355dd" />
-          <text x="14" y="8" class="legend-text">C# <tspan class="legend-pct">25.7%</tspan></text>
+          <text x="14" y="8" class="legend-text">C# <tspan class="legend-pct">25.3%</tspan></text>
         </g>
       
         <g transform="translate(247.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#F1E05A" />
-          <text x="14" y="8" class="legend-text">JavaScript <tspan class="legend-pct">10.5%</tspan></text>
+          <text x="14" y="8" class="legend-text">JavaScript <tspan class="legend-pct">11.2%</tspan></text>
         </g>
       
         <g transform="translate(372.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#3572A5" />
-          <text x="14" y="8" class="legend-text">Python <tspan class="legend-pct">8.8%</tspan></text>
+          <text x="14" y="8" class="legend-text">Python <tspan class="legend-pct">8.7%</tspan></text>
         </g>
       
         <g transform="translate(465.0, 520)">
@@ -1449,7 +1449,7 @@
       <!-- Octo-Orbit Brand / Telemetry Timestamp on the right -->
       <g transform="translate(868, 524)">
         <text x="0" y="0" text-anchor="end" class="watermark-text">
-          ✦ github-profile-orbit • 2026-09-08
+          ✦ github-profile-orbit • 2026-09-09
         </text>
       </g>
     </g>
