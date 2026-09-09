@@ -1,22 +1,17 @@
-﻿name: Update GitHub Ecosystem Orbit
-
+name: Update GitHub Ecosystem Orbit
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
-
 permissions:
   contents: write
-
 jobs:
   visualize:
     runs-on: ubuntu-latest
     timeout-minutes: 8
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-
       - name: Generate Space Orbit
         uses: NiconiKimg/github-profile-orbit@v1
         with:
@@ -41,17 +36,20 @@ jobs:
             temp-*
             *-sandbox
             dotfiles
+          exclude_languages: |
+            TSQL
+            MDX
           include_forks: false
           include_archived: false
           max_repositories: 25
           show_header: true
           show_footer: true
+          show_languages: false
           show_stats: true
           show_animations: true
           show_orbits: true
           show_constellations: true
           auto_commit: false
-
       - name: Generate Network Graph
         uses: NiconiKimg/github-profile-orbit@v1
         with:
@@ -76,10 +74,13 @@ jobs:
             temp-*
             *-sandbox
             dotfiles
+          exclude_languages: |
+            TSQL
+            MDX
           include_forks: false
           include_archived: false
           max_repositories: 25
-          show_header: true
+          show_header: false
           show_footer: true
           show_stats: true
           show_constellations: true
