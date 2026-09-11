@@ -494,8 +494,8 @@
         />
       
         <line
-          x1="255.43093059058998"
-          y1="324.3928265035961"
+          x1="254.92199418213843"
+          y1="324.26395163346064"
           x2="167"
           y2="302"
           stroke="#b07219"
@@ -924,13 +924,13 @@
           </g>
         
           <g id="repo-AnyLogicWebToolkit" class="network-repo">
-            <g transform="translate(255.43093059058998, 324.3928265035961)">
-              <circle cx="0" cy="0" r="11.825" fill="#b07219" opacity="0.25" filter="url(#stellar-glow)" />
-              <circle cx="0" cy="0" r="9.825" fill="#b07219" />
-              <circle cx="0" cy="0" r="3.4387499999999998" fill="#FFFFFF" opacity="0.7" />
+            <g transform="translate(254.92199418213843, 324.26395163346064)">
+              <circle cx="0" cy="0" r="11.3" fill="#b07219" opacity="0.25" filter="url(#stellar-glow)" />
+              <circle cx="0" cy="0" r="9.3" fill="#b07219" />
+              <circle cx="0" cy="0" r="3.255" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(272.3, 327.4)">
+            <g transform="translate(271.2, 327.3)">
               <text
                 x="0"
                 y="0"
@@ -1283,7 +1283,7 @@
       <!-- Octo-Orbit Brand / Telemetry Timestamp on the right -->
       <g transform="translate(868, 524)">
         <text x="0" y="0" text-anchor="end" class="watermark-text">
-          ✦ github-profile-orbit • 2026-09-10
+          ✦ github-profile-orbit • 2026-09-11
         </text>
       </g>
     </g>
