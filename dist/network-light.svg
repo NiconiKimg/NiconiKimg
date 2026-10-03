@@ -527,8 +527,8 @@
         />
       
         <line
-          x1="405.8668849277175"
-          y1="308.2503282717072"
+          x1="406.8494141109052"
+          y1="309.03344802018927"
           x2="450"
           y2="125"
           stroke="#3178c6"
@@ -538,8 +538,8 @@
         />
       
         <line
-          x1="405.8668849277175"
-          y1="308.2503282717072"
+          x1="406.8494141109052"
+          y1="309.03344802018927"
           x2="733"
           y2="302"
           stroke="#f1e05a"
@@ -549,8 +549,8 @@
         />
       
         <line
-          x1="405.8668849277175"
-          y1="308.2503282717072"
+          x1="406.8494141109052"
+          y1="309.03344802018927"
           x2="223"
           y2="180"
           stroke="#663399"
@@ -560,8 +560,8 @@
         />
       
         <line
-          x1="405.8668849277175"
-          y1="308.2503282717072"
+          x1="406.8494141109052"
+          y1="309.03344802018927"
           x2="324"
           y2="401"
           stroke="#e34c26"
@@ -571,8 +571,8 @@
         />
       
         <line
-          x1="596.8792395741444"
-          y1="309.5155974652796"
+          x1="595.8467895037195"
+          y1="309.6117430831999"
           x2="576"
           y2="401"
           stroke="#3572A5"
@@ -582,8 +582,8 @@
         />
       
         <line
-          x1="662.8843994651965"
-          y1="362.5982172517225"
+          x1="662.8215002651964"
+          y1="362.66111645172253"
           x2="576"
           y2="401"
           stroke="#3572A5"
@@ -593,8 +593,8 @@
         />
       
         <line
-          x1="662.8843994651965"
-          y1="362.5982172517225"
+          x1="662.8215002651964"
+          y1="362.66111645172253"
           x2="733"
           y2="302"
           stroke="#F1E05A"
@@ -604,8 +604,8 @@
         />
       
         <line
-          x1="662.8843994651965"
-          y1="362.5982172517225"
+          x1="662.8215002651964"
+          y1="362.66111645172253"
           x2="223"
           y2="180"
           stroke="#563D7C"
@@ -615,8 +615,8 @@
         />
       
         <line
-          x1="662.8843994651965"
-          y1="362.5982172517225"
+          x1="662.8215002651964"
+          y1="362.66111645172253"
           x2="324"
           y2="401"
           stroke="#E34C26"
@@ -626,8 +626,8 @@
         />
       
         <line
-          x1="500.4918844605903"
-          y1="354.87532798635925"
+          x1="500.9494136788845"
+          y1="355.1334477561634"
           x2="576"
           y2="401"
           stroke="#3572A5"
@@ -956,13 +956,13 @@
           </g>
         
           <g id="repo-github-profile-orbit" class="network-repo">
-            <g transform="translate(405.8668849277175, 308.2503282717072)">
+            <g transform="translate(406.8494141109052, 309.03344802018927)">
               <circle cx="0" cy="0" r="11" fill="#3178c6" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="9" fill="#3178c6" />
               <circle cx="0" cy="0" r="3.15" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(389.9, 311.3)">
+            <g transform="translate(390.8, 312.0)">
               <text
                 x="0"
                 y="0"
@@ -983,13 +983,13 @@
           </g>
         
           <g id="repo-Hyperparameters-Optimization" class="network-repo">
-            <g transform="translate(596.8792395741444, 309.5155974652796)">
+            <g transform="translate(595.8467895037195, 309.6117430831999)">
               <circle cx="0" cy="0" r="11" fill="#3572A5" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="9" fill="#3572A5" />
               <circle cx="0" cy="0" r="3.15" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(612.9, 312.5)">
+            <g transform="translate(611.8, 312.6)">
               <text
                 x="0"
                 y="0"
@@ -1010,13 +1010,13 @@
           </g>
         
           <g id="repo-PedemonteDigitalTwin_v2" class="network-repo">
-            <g transform="translate(662.8843994651965, 362.5982172517225)">
+            <g transform="translate(662.8215002651964, 362.66111645172253)">
               <circle cx="0" cy="0" r="11" fill="#3572A5" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="9" fill="#3572A5" />
               <circle cx="0" cy="0" r="3.15" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(678.9, 365.6)">
+            <g transform="translate(678.8, 365.7)">
               <text
                 x="0"
                 y="0"
@@ -1037,13 +1037,13 @@
           </g>
         
           <g id="repo-NiconiKimg" class="network-repo">
-            <g transform="translate(310.7168908355045, 261.10033188052114)">
+            <g transform="translate(311.699419574697, 261.883451359341)">
               <circle cx="0" cy="0" r="8.149999999999999" fill="#64748B" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="6.1499999999999995" fill="#64748B" />
               <circle cx="0" cy="0" r="2.1525" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(297.6, 264.1)">
+            <g transform="translate(298.5, 264.9)">
               <text
                 x="0"
                 y="0"
@@ -1064,13 +1064,13 @@
           </g>
         
           <g id="repo-Genetic-Algorithms" class="network-repo">
-            <g transform="translate(500.4918844605903, 354.87532798635925)">
-              <circle cx="0" cy="0" r="7.625" fill="#3572A5" opacity="0.25" filter="url(#stellar-glow)" />
-              <circle cx="0" cy="0" r="5.625" fill="#3572A5" />
-              <circle cx="0" cy="0" r="1.9687499999999998" fill="#FFFFFF" opacity="0.7" />
+            <g transform="translate(500.9494136788845, 355.1334477561634)">
+              <circle cx="0" cy="0" r="7.1" fill="#3572A5" opacity="0.25" filter="url(#stellar-glow)" />
+              <circle cx="0" cy="0" r="5.1" fill="#3572A5" />
+              <circle cx="0" cy="0" r="1.7849999999999997" fill="#FFFFFF" opacity="0.7" />
             </g>
             <!-- Typographic Label positioned outside node -->
-            <g transform="translate(513.1, 357.9)">
+            <g transform="translate(513.0, 358.1)">
               <text
                 x="0"
                 y="0"
@@ -1199,7 +1199,7 @@
           </g>
         
           <g id="repo-Entornos-Graficos-UTN" class="network-repo">
-            <g transform="translate(507.6567527821521, 263.69929700106144)">
+            <g transform="translate(507.6582831645798, 263.7133170771723)">
               <circle cx="0" cy="0" r="6.275" fill="#64748B" opacity="0.25" filter="url(#stellar-glow)" />
               <circle cx="0" cy="0" r="4.275" fill="#64748B" />
               <circle cx="0" cy="0" r="1.49625" fill="#FFFFFF" opacity="0.7" />
@@ -1261,7 +1261,7 @@
       <!-- Octo-Orbit Brand / Telemetry Timestamp on the right -->
       <g transform="translate(868, 524)">
         <text x="0" y="0" text-anchor="end" class="watermark-text">
-          ✦ github-profile-orbit • 2026-10-02
+          ✦ github-profile-orbit • 2026-10-03
         </text>
       </g>
     </g>
