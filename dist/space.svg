@@ -355,7 +355,7 @@
       <text x="0" y="44" class="subtitle-text">
         <tspan class="rank-badge">Systems Engineering Student</tspan>
         <tspan class="bullet-sep"> • </tspan>
-        <tspan>Primary: TypeScript</tspan>
+        <tspan>Primary: Python</tspan>
         <tspan class="bullet-sep"> • </tspan>
         <tspan>13 Repositories</tspan>
       </text>
@@ -823,16 +823,16 @@
       
         <g class="">
           <g transform="translate(591.39, 247.85)">
-            <circle cx="0" cy="0" r="18" fill="none" stroke="#3572A5" stroke-width="0.8" opacity="0.45" filter="url(#stellar-glow)" class="pulsar-glow" />
+            <circle cx="0" cy="0" r="16.1" fill="none" stroke="#3572A5" stroke-width="0.8" opacity="0.45" filter="url(#stellar-glow)" class="pulsar-glow" />
             
-            <circle cx="0" cy="0" r="16" fill="none" stroke="var(--color-accent)" stroke-width="0.8" stroke-dasharray="3, 3" opacity="0.6" />
-            <circle cx="0" cy="0" r="14" fill="#3572A5" opacity="0.25" filter="url(#stellar-glow)" />
-            <circle cx="0" cy="0" r="12" fill="#3572A5" />
-            <circle cx="0" cy="0" r="4.199999999999999" fill="#FFFFFF" opacity="0.6" />
+            <circle cx="0" cy="0" r="14.1" fill="none" stroke="var(--color-accent)" stroke-width="0.8" stroke-dasharray="3, 3" opacity="0.6" />
+            <circle cx="0" cy="0" r="12.1" fill="#3572A5" opacity="0.25" filter="url(#stellar-glow)" />
+            <circle cx="0" cy="0" r="10.1" fill="#3572A5" />
+            <circle cx="0" cy="0" r="3.5349999999999997" fill="#FFFFFF" opacity="0.6" />
           </g>
 
           <!-- Typographic Label -->
-          <g transform="translate(609.9, 242.6)">
+          <g transform="translate(608.1, 243.1)">
             <text
               x="0"
               y="0"
@@ -847,7 +847,7 @@
               text-anchor="start"
               class="repo-sub"
             >
-              ★ 1 • Python (0%)
+              ★ 1 • Python
             </text>
           </g>
         </g>
@@ -987,7 +987,7 @@
       <!-- Octo-Orbit Brand / Telemetry Timestamp on the right -->
       <g transform="translate(868, 524)">
         <text x="0" y="0" text-anchor="end" class="watermark-text">
-          ✦ github-profile-orbit • 2026-10-13
+          ✦ github-profile-orbit • 2026-10-14
         </text>
       </g>
     </g>
